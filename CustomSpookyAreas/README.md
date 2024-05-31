@@ -1,4 +1,4 @@
-i added two spooky Areas around the Big Castles.
+here i added two spooky Areas around the Big Castles on the DayZ Map Rostow.
 
 add this into your:
 
